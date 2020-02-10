@@ -25,7 +25,25 @@ Factory Chooses the object
 
 Template Method Pattern:
 
+Subclasses decide how to implement steps in an algorithm. 
 
+DataProcessor {
+	ParseAndSaveData:
+	--> ReadData 
+	--> ProcessData
+	--> SaveData
+	}
+
+ExcelFile { 
+	- ReadData
+	- ProcessData  
+	} --> DataProcessor
+	
+TextFile {
+	- ReadData
+	- ProcessData
+	} --> DataProcessor
+	
 ----------------------------
 
 Adapter Pattern:
