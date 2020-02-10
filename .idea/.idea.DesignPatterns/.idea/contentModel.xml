@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DesignPatterns.25995715.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Administrator\Documents\GitHub\DesignPatterns" t="IncludeFlat">
+      <e p="DesignPatterns" t="IncludeRecursive">
+        <e p="_BasicConcepts" t="Include">
+          <e p="A.cs" t="Include" />
+          <e p="Employee.cs" t="Include" />
+          <e p="IEmail.cs" t="Include" />
+        </e>
+        <e p="_Factory" t="Include">
+          <e p="Add.cs" t="Include" />
+          <e p="Divide.cs" t="Include" />
+          <e p="ICalculate.cs" t="Include" />
+          <e p="Subtract.cs" t="Include" />
+          <e p="TestFactory.cs" t="Include" />
+        </e>
+        <e p="_Singletons" t="Include">
+          <e p="Logger.cs" t="Include" />
+          <e p="TestLogger.cs" t="Include" />
+        </e>
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DesignPatterns.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DesignPatterns.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -47,7 +47,10 @@
     <Compile Include="_BasicConcepts\A.cs" />
     <Compile Include="_BasicConcepts\Employee.cs" />
     <Compile Include="_BasicConcepts\IEmail.cs" />
+    <Compile Include="_Factory\Add.cs" />
     <Compile Include="_Factory\Divide.cs" />
+    <Compile Include="_Factory\ICalculate.cs" />
+    <Compile Include="_Factory\Subtract.cs" />
     <Compile Include="_Factory\TestFactory.cs" />
     <Compile Include="_Singletons\Logger.cs" />
     <Compile Include="_Singletons\TestLogger.cs" />

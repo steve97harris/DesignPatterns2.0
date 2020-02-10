@@ -1,0 +1,51 @@
+				C# Definitions
+				--------------
+
+class - A user defined blueprint where objects are created. A function that combines fields and methods into a single unit. 
+(A member function which defines actions).
+
+constuctor - A method of the class which gets invoked whenever an instance of the class is created. 
+
+interface - 
+
+------------------------------------------
+Access Modifier's:
+Define the accessibility of the class and it's memebers. 
+
+public - Allows any part of the program in the assembly to access the type and its members. 
+
+private - Restricts other parts of the program from accessing the type and it's members. Only code in the smae class or struct can access it. 
+
+internal - Allows other program code in the same assembly to access the type or it's members. 
+
+protected - Allows codes in the same class or a class trhat derives from that class to access the type or it's members.  
+------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
