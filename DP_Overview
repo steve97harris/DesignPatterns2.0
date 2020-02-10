@@ -1,0 +1,94 @@
+                            DESIGN PATTERNS
+
+Singleton Pattern:
+
+A class with only one object. 
+
+Objects used for logging, device driovers for printers or registry settings need to have only one of a kind. 
+If there are multiple objects we may encounter problems like incorrect program behavior, inconsistent results etc. 
+
+----------------------------
+
+Factory Pattern:
+
+The type of objects created will be decided by a seperate factory class.
+
+Calculate (interface)
+--> Concrete classes Add
+--> Divide
+--> Subtract
+
+Factory Chooses the object
+--> Divide
+
+----------------------------
+
+Template Method Pattern:
+
+
+----------------------------
+
+Adapter Pattern:
+
+
+----------------------------
+
+Facade Pattern:
+
+
+----------------------------
+
+Strategy Pattern:
+
+
+----------------------------
+
+State Pattern:
+
+
+----------------------------
+
+Proxy Pattern:
+
+
+----------------------------
+
+Chain of Responsibility Pattern:
+
+
+----------------------------
+
+Bridge Pattern:
+
+
+----------------------------
+
+Composite Pattern:
+
+
+----------------------------
+
+Decorator Pattern:
+
+
+----------------------------
+
+Observer Pattern:
+
+
+----------------------------
+
+Builder Pattern: 
+
+
+----------------------------
+
+Flyweight Pattern:
+
+
+----------------------------
+
+Repository Pattern:
+
+
+----------------------------
