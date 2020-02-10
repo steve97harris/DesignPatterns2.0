@@ -48,6 +48,7 @@
     <Compile Include="_BasicConcepts\Employee.cs" />
     <Compile Include="_BasicConcepts\IEmail.cs" />
     <Compile Include="_Factory\Add.cs" />
+    <Compile Include="_Factory\CalculateFactory.cs" />
     <Compile Include="_Factory\Divide.cs" />
     <Compile Include="_Factory\ICalculate.cs" />
     <Compile Include="_Factory\Subtract.cs" />

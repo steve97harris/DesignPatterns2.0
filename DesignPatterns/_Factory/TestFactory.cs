@@ -28,8 +28,13 @@ namespace DesignPatterns._Factory
                 return;
             }
 
-            Divide objectA = new Divide();
+            Console.WriteLine("Enter add, subtract or divide bitch");
+            CalculateFactory factory = new CalculateFactory();
+            ICalculate objectA = factory.GetCalculation(Console.ReadLine());
+            
+            // Divide objectA = new Divide();
             objectA.Calculate(number1, number2);
+            Main();
         }
     }
 }

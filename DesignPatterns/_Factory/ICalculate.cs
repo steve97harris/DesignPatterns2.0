@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPatterns._Factory
 {
-    interface ICalculate
+    public interface ICalculate
     {
         void Calculate(double number1, double number2);
     }
