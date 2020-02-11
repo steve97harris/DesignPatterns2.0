@@ -4,15 +4,17 @@
     {
         static void Main()
         {
-            ExcelFile objectA = new ExcelFile();
-            objectA.ReadData();
-            objectA.ProcessData();
-            objectA.SaveData();
+            DataProcessor objectA = new ExcelFile();
+            objectA.ReadProcessSave();
+            // objectA.ReadData();
+            // objectA.ProcessData();
+            // objectA.SaveData();
             
-            TextFile objectB = new TextFile();
-            objectB.ReadData();
-            objectB.ProcessData();
-            objectB.SaveData();
+            DataProcessor objectB = new TextFile();
+            objectB.ReadProcessSave();
+            // objectB.ReadData();
+            // objectB.ProcessData();
+            // objectB.SaveData();
         }
     }
 }

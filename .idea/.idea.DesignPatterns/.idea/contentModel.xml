@@ -23,6 +23,7 @@
           <e p="TestLogger.cs" t="Include" />
         </e>
         <e p="_TemplateMethod" t="Include">
+          <e p="DataProcessor.cs" t="Include" />
           <e p="ExcelFile.cs" t="Include" />
           <e p="TestTemplateMethod.cs" t="Include" />
           <e p="TextFile.cs" t="Include" />

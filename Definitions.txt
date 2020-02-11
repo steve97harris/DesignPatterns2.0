@@ -6,8 +6,6 @@ class - A user defined blueprint where objects are created. A function that comb
 
 constuctor - A method of the class which gets invoked whenever an instance of the class is created. 
 
-interface - Similar to a class but purely represents a contract between an object and it's user.
-
 ------------------------------------------
 Access Modifier's:
 Define the accessibility of the class and it's memebers. 
@@ -21,31 +19,12 @@ internal - Allows other program code in the same assembly to access the type or 
 protected - Allows codes in the same class or a class trhat derives from that class to access the type or it's members.  
 ------------------------------------------
 
+override - Used to replace a virtual and abstract members that is defined in a base class with the definition of that member in the derived class. 
 
+interface - Similar to a class but purely represents a contract between an object and it's user.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+abstract - Indicates that the thing being modified has a missing or incomplete implementation. 
+Use in a class declaration to indicate that a class is intended only to be a base class of other classes, not instantiated on it's own. 
+(Implementation isn't needed).
 
 

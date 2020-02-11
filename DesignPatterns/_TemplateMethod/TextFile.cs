@@ -4,21 +4,17 @@ using System.Text;
 
 namespace DesignPatterns._TemplateMethod
 {
-    public class TextFile
+    public class TextFile : DataProcessor
     {
-        public void ReadData()
+
+        public override void ReadData()
         {
             Console.WriteLine("Reads data from text file");
         }
 
-        public void ProcessData()
+        public override void ProcessData()
         {
             Console.WriteLine("Process data from text file");
-        }
-
-        public void SaveData()
-        {
-            Console.WriteLine("Saves data to database");
         }
     }
 }
