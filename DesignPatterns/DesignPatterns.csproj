@@ -55,6 +55,9 @@
     <Compile Include="_Factory\TestFactory.cs" />
     <Compile Include="_Singletons\Logger.cs" />
     <Compile Include="_Singletons\TestLogger.cs" />
+    <Compile Include="_TemplateMethod\ExcelFile.cs" />
+    <Compile Include="_TemplateMethod\TestTemplateMethod.cs" />
+    <Compile Include="_TemplateMethod\TextFile.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

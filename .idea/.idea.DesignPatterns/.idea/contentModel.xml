@@ -22,6 +22,11 @@
           <e p="Logger.cs" t="Include" />
           <e p="TestLogger.cs" t="Include" />
         </e>
+        <e p="_TemplateMethod" t="Include">
+          <e p="ExcelFile.cs" t="Include" />
+          <e p="TestTemplateMethod.cs" t="Include" />
+          <e p="TextFile.cs" t="Include" />
+        </e>
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="DesignPatterns.csproj" t="IncludeRecursive" />

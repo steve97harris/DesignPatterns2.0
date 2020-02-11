@@ -8,7 +8,7 @@ namespace DesignPatterns._Factory
 {
     class TestFactory
     {
-        static void Main()
+        static void MainOLD()
         {
             Console.WriteLine("Enter first number");
             string input = Console.ReadLine();
@@ -34,7 +34,7 @@ namespace DesignPatterns._Factory
             
             // Divide objectA = new Divide();
             objectA.Calculate(number1, number2);
-            Main();
+            MainOLD();
         }
     }
 }

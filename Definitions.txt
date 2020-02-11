@@ -6,7 +6,7 @@ class - A user defined blueprint where objects are created. A function that comb
 
 constuctor - A method of the class which gets invoked whenever an instance of the class is created. 
 
-interface - 
+interface - Similar to a class but purely represents a contract between an object and it's user.
 
 ------------------------------------------
 Access Modifier's:
