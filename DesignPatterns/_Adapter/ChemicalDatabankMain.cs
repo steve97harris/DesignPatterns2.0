@@ -5,7 +5,7 @@ namespace DesignPatterns._Adapter
 {
     public class ChemicalDatabankMain
     {
-        public static void Main()
+        public static void MainOld()
         {
             // Non-adapted chemical compound
             Compound unknown = new Compound("Unknown");

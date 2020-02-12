@@ -44,6 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_AbstractFactory\AfricaFactory.cs" />
+    <Compile Include="_AbstractFactory\AnimalFactory.cs" />
+    <Compile Include="_AbstractFactory\AnimalWorld.cs" />
+    <Compile Include="_AbstractFactory\ContinentFactory.cs" />
+    <Compile Include="_AbstractFactory\USAFactory.cs" />
     <Compile Include="_Adapter\ChemicalDataBank.cs" />
     <Compile Include="_Adapter\ChemicalDatabankMain.cs" />
     <Compile Include="_Adapter\Compound.cs" />
@@ -75,6 +80,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="_Bridge" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
