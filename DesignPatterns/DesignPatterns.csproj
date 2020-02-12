@@ -56,6 +56,11 @@
     <Compile Include="_BasicConcepts\A.cs" />
     <Compile Include="_BasicConcepts\Employee.cs" />
     <Compile Include="_BasicConcepts\IEmail.cs" />
+    <Compile Include="_Bridge\Customers.cs" />
+    <Compile Include="_Bridge\CustomersBase.cs" />
+    <Compile Include="_Bridge\CustomersData.cs" />
+    <Compile Include="_Bridge\DataObject.cs" />
+    <Compile Include="_Bridge\MainApp.cs" />
     <Compile Include="_ColourPrototype\Colour.cs" />
     <Compile Include="_ColourPrototype\ColourManager.cs" />
     <Compile Include="_ColourPrototype\MainApp.cs" />
@@ -80,9 +85,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="_Bridge" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

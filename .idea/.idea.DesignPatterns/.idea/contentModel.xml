@@ -23,7 +23,13 @@
           <e p="Employee.cs" t="Include" />
           <e p="IEmail.cs" t="Include" />
         </e>
-        <e p="_Bridge" t="Include" />
+        <e p="_Bridge" t="Include">
+          <e p="Customers.cs" t="Include" />
+          <e p="CustomersBase.cs" t="Include" />
+          <e p="CustomersData.cs" t="Include" />
+          <e p="DataObject.cs" t="Include" />
+          <e p="MainApp.cs" t="Include" />
+        </e>
         <e p="_ColourPrototype" t="Include">
           <e p="Colour.cs" t="Include" />
           <e p="ColourManager.cs" t="Include" />
