@@ -47,6 +47,7 @@
     <Compile Include="_BasicConcepts\A.cs" />
     <Compile Include="_BasicConcepts\Employee.cs" />
     <Compile Include="_BasicConcepts\IEmail.cs" />
+    <Compile Include="_ColourPrototype\MainApp.cs" />
     <Compile Include="_Factory\Add.cs" />
     <Compile Include="_Factory\CalculateFactory.cs" />
     <Compile Include="_Factory\Divide.cs" />
@@ -59,6 +60,12 @@
     <Compile Include="_TemplateMethod\ExcelFile.cs" />
     <Compile Include="_TemplateMethod\TestTemplateMethod.cs" />
     <Compile Include="_TemplateMethod\TextFile.cs" />
+    <Compile Include="_VehicleBuilder\CarBuilder.cs" />
+    <Compile Include="_VehicleBuilder\MainApp.cs" />
+    <Compile Include="_VehicleBuilder\MotorCycleBuilder.cs" />
+    <Compile Include="_VehicleBuilder\ScooterBuilder.cs" />
+    <Compile Include="_VehicleBuilder\TruckBuilder.cs" />
+    <Compile Include="_VehicleBuilder\VehicleBuilder.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

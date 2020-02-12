@@ -10,6 +10,9 @@
           <e p="Employee.cs" t="Include" />
           <e p="IEmail.cs" t="Include" />
         </e>
+        <e p="_ColourPrototype" t="Include">
+          <e p="MainApp.cs" t="Include" />
+        </e>
         <e p="_Factory" t="Include">
           <e p="Add.cs" t="Include" />
           <e p="CalculateFactory.cs" t="Include" />
@@ -27,6 +30,14 @@
           <e p="ExcelFile.cs" t="Include" />
           <e p="TestTemplateMethod.cs" t="Include" />
           <e p="TextFile.cs" t="Include" />
+        </e>
+        <e p="_VehicleBuilder" t="Include">
+          <e p="CarBuilder.cs" t="Include" />
+          <e p="MainApp.cs" t="Include" />
+          <e p="MotorCycleBuilder.cs" t="Include" />
+          <e p="ScooterBuilder.cs" t="Include" />
+          <e p="TruckBuilder.cs" t="Include" />
+          <e p="VehicleBuilder.cs" t="Include" />
         </e>
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />

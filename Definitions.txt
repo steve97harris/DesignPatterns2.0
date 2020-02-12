@@ -16,7 +16,7 @@ private - Restricts other parts of the program from accessing the type and it's 
 
 internal - Allows other program code in the same assembly to access the type or it's members. 
 
-protected - Allows codes in the same class or a class trhat derives from that class to access the type or it's members.  
+protected - Allows codes in the same class or a class that derives from that class to access the type or it's members.  
 ------------------------------------------
 
 override - Used to replace a virtual and abstract members that is defined in a base class with the definition of that member in the derived class. 

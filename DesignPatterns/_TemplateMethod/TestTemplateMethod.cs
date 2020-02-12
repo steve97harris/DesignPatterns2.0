@@ -2,7 +2,7 @@
 {
     public class TestTemplateMethod
     {
-        static void Main()
+        static void MainOLD()
         {
             DataProcessor objectA = new ExcelFile();
             objectA.ReadProcessSave();
