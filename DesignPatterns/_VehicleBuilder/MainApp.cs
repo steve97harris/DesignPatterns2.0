@@ -6,7 +6,7 @@ namespace DesignPatterns._VehicleBuilder
 {
     public class MainApp
     {
-        public static void Main()
+        public static void MainOLD()
         {
             VehicleBuilder builder;
             
