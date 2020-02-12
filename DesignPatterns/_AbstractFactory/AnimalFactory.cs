@@ -2,9 +2,6 @@
 {
     public class AnimalFactory
     {
-        public static void Main()
-        {
-            
-        }
+
     }
 }

@@ -1,6 +1,7 @@
 ﻿namespace DesignPatterns._Bridge
 {
-    public class DataObject
+    // Implementor abstract class
+    public abstract class DataObject
     {
         
     }
