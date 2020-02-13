@@ -1,15 +1,15 @@
 ﻿namespace DesignPatterns._AbstractFactory
 {
-    class USAFactory : ContinentFactory
+    public class USAFactory : ContinentFactory
     {
         public override Herbivore CreateHerbivore()
         {
-            throw new System.NotImplementedException();
+            return new Bison();
         }
 
         public override Carnivore CreateCarnivore()
         {
-            throw new System.NotImplementedException();
+            return new Wolf();
         }
     }
 }

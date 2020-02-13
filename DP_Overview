@@ -20,3 +20,5 @@ Structural Patterns:
 Adapter - Match interfaces of different classes. 
 
 Bridge - Seperates an object's interface from its implemention. 
+
+Composite - A tree structure of simple and composite objects. 

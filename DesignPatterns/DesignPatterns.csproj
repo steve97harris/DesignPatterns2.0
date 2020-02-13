@@ -48,6 +48,7 @@
     <Compile Include="_AbstractFactory\AnimalFactory.cs" />
     <Compile Include="_AbstractFactory\AnimalWorld.cs" />
     <Compile Include="_AbstractFactory\ContinentFactory.cs" />
+    <Compile Include="_AbstractFactory\OtherFactory.cs" />
     <Compile Include="_AbstractFactory\USAFactory.cs" />
     <Compile Include="_Adapter\ChemicalDataBank.cs" />
     <Compile Include="_Adapter\ChemicalDatabankMain.cs" />

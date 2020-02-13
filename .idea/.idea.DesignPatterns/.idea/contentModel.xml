@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Steve\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Steve\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DesignPatterns.95248887.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Steve\Documents\GitHub\DesignPatterns2.0" t="IncludeFlat">
+    <e p="C:\Users\Administrator\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DesignPatterns.25995715.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Administrator\Documents\GitHub\DesignPatterns" t="IncludeFlat">
       <e p="DesignPatterns" t="IncludeRecursive">
         <e p="_AbstractFactory" t="Include">
           <e p="AfricaFactory.cs" t="Include" />
           <e p="AnimalFactory.cs" t="Include" />
           <e p="AnimalWorld.cs" t="Include" />
           <e p="ContinentFactory.cs" t="Include" />
+          <e p="OtherFactory.cs" t="Include" />
           <e p="USAFactory.cs" t="Include" />
         </e>
         <e p="_Adapter" t="Include">
