@@ -65,7 +65,10 @@
     <Compile Include="_ColourPrototype\Colour.cs" />
     <Compile Include="_ColourPrototype\ColourManager.cs" />
     <Compile Include="_ColourPrototype\MainApp.cs" />
+    <Compile Include="_Composite\CompositeElement.cs" />
+    <Compile Include="_Composite\DrawingElement.cs" />
     <Compile Include="_Composite\MainApp.cs" />
+    <Compile Include="_Composite\PrimitiveElement.cs" />
     <Compile Include="_Factory\Add.cs" />
     <Compile Include="_Factory\CalculateFactory.cs" />
     <Compile Include="_Factory\Divide.cs" />

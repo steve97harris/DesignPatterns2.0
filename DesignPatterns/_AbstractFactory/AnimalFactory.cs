@@ -4,7 +4,7 @@ namespace DesignPatterns._AbstractFactory
 {
     public class AnimalFactory
     {
-        public static void Main()
+        public static void MainOLD()
         {
             // Create and run Africa world
             ContinentFactory africa = new AfricaFactory();

@@ -37,7 +37,10 @@
           <e p="MainApp.cs" t="Include" />
         </e>
         <e p="_Composite" t="Include">
+          <e p="CompositeElement.cs" t="Include" />
+          <e p="DrawingElement.cs" t="Include" />
           <e p="MainApp.cs" t="Include" />
+          <e p="PrimitiveElement.cs" t="Include" />
         </e>
         <e p="_Factory" t="Include">
           <e p="Add.cs" t="Include" />
