@@ -36,6 +36,9 @@
           <e p="ColourManager.cs" t="Include" />
           <e p="MainApp.cs" t="Include" />
         </e>
+        <e p="_Composite" t="Include">
+          <e p="MainApp.cs" t="Include" />
+        </e>
         <e p="_Factory" t="Include">
           <e p="Add.cs" t="Include" />
           <e p="CalculateFactory.cs" t="Include" />
