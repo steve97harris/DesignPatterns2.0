@@ -42,6 +42,14 @@
           <e p="MainApp.cs" t="Include" />
           <e p="PrimitiveElement.cs" t="Include" />
         </e>
+        <e p="_Decorator" t="Include">
+          <e p="Book.cs" t="Include" />
+          <e p="Borrowable.cs" t="Include" />
+          <e p="Decorator.cs" t="Include" />
+          <e p="LibraryItem.cs" t="Include" />
+          <e p="MainApp.cs" t="Include" />
+          <e p="Video.cs" t="Include" />
+        </e>
         <e p="_Factory" t="Include">
           <e p="Add.cs" t="Include" />
           <e p="CalculateFactory.cs" t="Include" />
