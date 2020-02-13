@@ -5,7 +5,7 @@ namespace DesignPatterns._Composite
 {
     public class MainApp
     {
-        public static void Main()
+        public static void MainOLD()
         {
             // Create a tree structure
             CompositeElement root = new CompositeElement("Picture");
