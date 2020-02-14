@@ -51,11 +51,10 @@
           <e p="Video.cs" t="Include" />
         </e>
         <e p="_Facade" t="Include">
-          <e p="Simple" t="Include">
-            <e p="Computer.cs" t="Include" />
-            <e p="ComputerFacade.cs" t="Include" />
-            <e p="MainApp.cs" t="Include" />
-          </e>
+          <e p="Customer.cs" t="Include" />
+          <e p="MainApp.cs" t="Include" />
+          <e p="Mortgage.cs" t="Include" />
+          <e p="Subsystems.cs" t="Include" />
         </e>
         <e p="_Factory" t="Include">
           <e p="Add.cs" t="Include" />
