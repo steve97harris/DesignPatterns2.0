@@ -4,7 +4,7 @@ namespace DesignPatterns._Decorator
 {
     public class MainApp
     {
-        public static void Main()
+        public static void MainOLD()
         {
             Book book1 = new Book("Stephen Kind", "The Outsider", 20);
             
@@ -18,7 +18,13 @@ namespace DesignPatterns._Decorator
             borrowableVideo.BorrowItem("Customer #2");
             
             borrowableVideo.Display();
-
+            
+            Borrowable borrowableBook = new Borrowable(book1);
+            borrowableBook.BorrowItem("Customer X");
+            borrowableBook.BorrowItem("Customer Y");
+            borrowableBook.BorrowItem("Customer Z");
+            borrowableBook.Display();
+            
             Console.ReadKey();
         }
     }

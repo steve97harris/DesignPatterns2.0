@@ -75,6 +75,9 @@
     <Compile Include="_Decorator\LibraryItem.cs" />
     <Compile Include="_Decorator\MainApp.cs" />
     <Compile Include="_Decorator\Video.cs" />
+    <Compile Include="_Facade\Simple\Computer.cs" />
+    <Compile Include="_Facade\Simple\ComputerFacade.cs" />
+    <Compile Include="_Facade\Simple\MainApp.cs" />
     <Compile Include="_Factory\Add.cs" />
     <Compile Include="_Factory\CalculateFactory.cs" />
     <Compile Include="_Factory\Divide.cs" />

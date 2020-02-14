@@ -50,6 +50,13 @@
           <e p="MainApp.cs" t="Include" />
           <e p="Video.cs" t="Include" />
         </e>
+        <e p="_Facade" t="Include">
+          <e p="Simple" t="Include">
+            <e p="Computer.cs" t="Include" />
+            <e p="ComputerFacade.cs" t="Include" />
+            <e p="MainApp.cs" t="Include" />
+          </e>
+        </e>
         <e p="_Factory" t="Include">
           <e p="Add.cs" t="Include" />
           <e p="CalculateFactory.cs" t="Include" />
