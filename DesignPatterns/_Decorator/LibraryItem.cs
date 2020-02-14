@@ -9,7 +9,7 @@
         {
             get
             {
-                return NumCopies;
+                return numCopies;
             }
             set
             {

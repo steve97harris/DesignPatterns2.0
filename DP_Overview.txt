@@ -24,3 +24,32 @@ Bridge - Seperates an object's interface from its implemention.
 Composite - A tree structure of simple and composite objects. 
 
 Decorator - Add responsibilities to objects dynamically.
+
+Facade - 
+
+Flyweight - 
+
+Proxy - 
+
+
+Behavioral: 
+
+Chain of Responsibility - 
+
+Command - 
+
+Iterator - 
+
+Mediator - 
+
+Memento - 
+
+Observer - 
+
+Visitor - 
+
+Strategy - 
+
+State - 
+
+Template Method -

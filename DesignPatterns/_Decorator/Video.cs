@@ -21,7 +21,7 @@ namespace DesignPatterns._Decorator
             Console.WriteLine("\n Video ------");
             Console.WriteLine(" Director: " + director);
             Console.WriteLine(" title: " + title);
-            Console.WriteLine(" # Copies: " + NumCopies);
+            Console.WriteLine(" # Copies in stock: " + NumCopies);
             Console.WriteLine(" PlayTime: " + playTime);
         }
     }

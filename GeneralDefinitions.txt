@@ -1,4 +1,4 @@
-				C# Definitions
+				C# General Definitions
 				--------------
 
 class - A user defined blueprint where objects are created. A function that combines fields and methods into a single unit. 

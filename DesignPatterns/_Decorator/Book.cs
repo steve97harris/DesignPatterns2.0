@@ -21,7 +21,7 @@ namespace DesignPatterns._Decorator
             Console.WriteLine("\n Book -----");
             Console.WriteLine(" Author: " + author);
             Console.WriteLine(" Title: " + title);
-            Console.WriteLine(" # Copies: " + NumCopies);
+            Console.WriteLine(" # Copies in stock: " + NumCopies);
         }
     }
 }
