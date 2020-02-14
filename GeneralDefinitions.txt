@@ -27,4 +27,6 @@ abstract - Indicates that the thing being modified has a missing or incomplete i
 Use in a class declaration to indicate that a class is intended only to be a base class of other classes, not instantiated on it's own. 
 (Implementation isn't needed).
 
+struct - A structure that mainly holds small data values.
+E.g: constructors, constants, fields, methods, properties, indexers, operators, events and nested types.
 

@@ -64,6 +64,13 @@
           <e p="Subtract.cs" t="Include" />
           <e p="TestFactory.cs" t="Include" />
         </e>
+        <e p="_Flyweight" t="Include">
+          <e p="TeaShopExample" t="Include">
+            <e p="MainApp.cs" t="Include" />
+            <e p="TeaMaker.cs" t="Include" />
+            <e p="TeaShop.cs" t="Include" />
+          </e>
+        </e>
         <e p="_Singletons" t="Include">
           <e p="Logger.cs" t="Include" />
           <e p="TestLogger.cs" t="Include" />

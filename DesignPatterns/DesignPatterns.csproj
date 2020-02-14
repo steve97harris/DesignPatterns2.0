@@ -85,6 +85,9 @@
     <Compile Include="_Factory\ICalculate.cs" />
     <Compile Include="_Factory\Subtract.cs" />
     <Compile Include="_Factory\TestFactory.cs" />
+    <Compile Include="_Flyweight\TeaShopExample\MainApp.cs" />
+    <Compile Include="_Flyweight\TeaShopExample\TeaMaker.cs" />
+    <Compile Include="_Flyweight\TeaShopExample\TeaShop.cs" />
     <Compile Include="_Singletons\Logger.cs" />
     <Compile Include="_Singletons\TestLogger.cs" />
     <Compile Include="_TemplateMethod\DataProcessor.cs" />
