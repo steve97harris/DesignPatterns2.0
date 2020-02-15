@@ -4,7 +4,7 @@ namespace DesignPatterns._Flyweight.Flyweight02_TeaShop
 {
     public class Program
     {
-        public static void Main()
+        public static void MainOLD()
         {
             var teaMaker = new TeaMaker();
             var teaShop = new TeaShop(teaMaker);

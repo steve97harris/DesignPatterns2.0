@@ -79,12 +79,12 @@
     <Compile Include="_Facade\Mortgage.cs" />
     <Compile Include="_Facade\MainApp.cs" />
     <Compile Include="_Facade\Subsystems.cs" />
-    <Compile Include="_Factory\Add.cs" />
-    <Compile Include="_Factory\CalculateFactory.cs" />
-    <Compile Include="_Factory\Divide.cs" />
-    <Compile Include="_Factory\ICalculate.cs" />
-    <Compile Include="_Factory\Subtract.cs" />
-    <Compile Include="_Factory\TestFactory.cs" />
+    <Compile Include="_SimpleFactory\Add.cs" />
+    <Compile Include="_SimpleFactory\CalculateFactory.cs" />
+    <Compile Include="_SimpleFactory\Divide.cs" />
+    <Compile Include="_SimpleFactory\ICalculate.cs" />
+    <Compile Include="_SimpleFactory\Subtract.cs" />
+    <Compile Include="_SimpleFactory\TestFactory.cs" />
     <Compile Include="_Flyweight\Flyweight01_CarFactory\Car.cs" />
     <Compile Include="_Flyweight\Flyweight01_CarFactory\Program.cs" />
     <Compile Include="_Flyweight\Flyweight01_CarFactory\Flyweight.cs" />
@@ -92,18 +92,21 @@
     <Compile Include="_Flyweight\Flyweight02_TeaShop\Program.cs" />
     <Compile Include="_Flyweight\Flyweight02_TeaShop\TeaMaker.cs" />
     <Compile Include="_Flyweight\Flyweight02_TeaShop\TeaShop.cs" />
+    <Compile Include="_Proxy\Proxy01_Door\IDoor.cs" />
+    <Compile Include="_Proxy\Proxy01_Door\Program.cs" />
+    <Compile Include="_Proxy\Proxy01_Door\SecuredDoor.cs" />
     <Compile Include="_Singletons\Logger.cs" />
     <Compile Include="_Singletons\TestLogger.cs" />
     <Compile Include="_TemplateMethod\DataProcessor.cs" />
     <Compile Include="_TemplateMethod\ExcelFile.cs" />
     <Compile Include="_TemplateMethod\TestTemplateMethod.cs" />
     <Compile Include="_TemplateMethod\TextFile.cs" />
-    <Compile Include="_VehicleBuilder\CarBuilder.cs" />
-    <Compile Include="_VehicleBuilder\MainApp.cs" />
-    <Compile Include="_VehicleBuilder\MotorCycleBuilder.cs" />
-    <Compile Include="_VehicleBuilder\ScooterBuilder.cs" />
-    <Compile Include="_VehicleBuilder\TruckBuilder.cs" />
-    <Compile Include="_VehicleBuilder\VehicleBuilder.cs" />
+    <Compile Include="_Builder\CarBuilder.cs" />
+    <Compile Include="_Builder\MainApp.cs" />
+    <Compile Include="_Builder\MotorCycleBuilder.cs" />
+    <Compile Include="_Builder\ScooterBuilder.cs" />
+    <Compile Include="_Builder\TruckBuilder.cs" />
+    <Compile Include="_Builder\VehicleBuilder.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
