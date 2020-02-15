@@ -83,6 +83,8 @@
     <Compile Include="01_Creational\05_Prototype\ColourPrototype\Colour.cs" />
     <Compile Include="01_Creational\05_Prototype\ColourPrototype\ColourManager.cs" />
     <Compile Include="01_Creational\05_Prototype\ColourPrototype\MainApp.cs" />
+    <Compile Include="01_Creational\05_Prototype\Sheep\Program.cs" />
+    <Compile Include="01_Creational\05_Prototype\Sheep\Sheep.cs" />
     <Compile Include="01_Creational\06_Singletons\ErrorLogger\Logger.cs" />
     <Compile Include="01_Creational\06_Singletons\ErrorLogger\TestLogger.cs" />
     <Compile Include="02_Structural\01_Adapter\ChemicalDataBankAdapter\ChemicalDataBank.cs" />
