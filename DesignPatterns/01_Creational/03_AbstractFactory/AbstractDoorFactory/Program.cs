@@ -2,7 +2,7 @@
 {
     public class Program
     {
-        public static void Main()
+        public static void MainOLD()
         {
             var woodenDoorFactory = new WoodenDoorFactory();
             var woodenDoor = woodenDoorFactory.MakeDoor();

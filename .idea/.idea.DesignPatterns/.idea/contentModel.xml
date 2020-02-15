@@ -53,6 +53,11 @@
             </e>
           </e>
           <e p="04_Builder" t="Include">
+            <e p="BurgerBuilder" t="Include">
+              <e p="Burger.cs" t="Include" />
+              <e p="BurgerBuilder.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+            </e>
             <e p="VehicleBuilder" t="Include">
               <e p="CarBuilder.cs" t="Include" />
               <e p="MainApp.cs" t="Include" />

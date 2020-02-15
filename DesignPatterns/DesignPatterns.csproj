@@ -71,6 +71,9 @@
     <Compile Include="01_Creational\03_AbstractFactory\AnimalFactory\ContinentFactory.cs" />
     <Compile Include="01_Creational\03_AbstractFactory\AnimalFactory\OtherFactory.cs" />
     <Compile Include="01_Creational\03_AbstractFactory\AnimalFactory\USAFactory.cs" />
+    <Compile Include="01_Creational\04_Builder\BurgerBuilder\Burger.cs" />
+    <Compile Include="01_Creational\04_Builder\BurgerBuilder\BurgerBuilder.cs" />
+    <Compile Include="01_Creational\04_Builder\BurgerBuilder\Program.cs" />
     <Compile Include="01_Creational\04_Builder\VehicleBuilder\CarBuilder.cs" />
     <Compile Include="01_Creational\04_Builder\VehicleBuilder\MainApp.cs" />
     <Compile Include="01_Creational\04_Builder\VehicleBuilder\MotorCycleBuilder.cs" />
