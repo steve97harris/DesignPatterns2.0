@@ -2,7 +2,7 @@
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             var wildDog = new WildDog();
             var wildDogAdapter = new WildDogAdapter(wildDog);        

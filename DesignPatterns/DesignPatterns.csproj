@@ -101,6 +101,9 @@
     <Compile Include="02_Structural\02_Bridge\CustomerBridge\CustomersData.cs" />
     <Compile Include="02_Structural\02_Bridge\CustomerBridge\DataObject.cs" />
     <Compile Include="02_Structural\02_Bridge\CustomerBridge\MainApp.cs" />
+    <Compile Include="02_Structural\02_Bridge\WebPage\ITheme.cs" />
+    <Compile Include="02_Structural\02_Bridge\WebPage\IWebPage.cs" />
+    <Compile Include="02_Structural\02_Bridge\WebPage\Program.cs" />
     <Compile Include="02_Structural\03_Composite\ShapeDrawerComposite\CompositeElement.cs" />
     <Compile Include="02_Structural\03_Composite\ShapeDrawerComposite\DrawingElement.cs" />
     <Compile Include="02_Structural\03_Composite\ShapeDrawerComposite\MainApp.cs" />

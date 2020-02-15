@@ -111,6 +111,11 @@
               <e p="DataObject.cs" t="Include" />
               <e p="MainApp.cs" t="Include" />
             </e>
+            <e p="WebPage" t="Include">
+              <e p="ITheme.cs" t="Include" />
+              <e p="IWebPage.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+            </e>
           </e>
           <e p="03_Composite" t="Include">
             <e p="ShapeDrawerComposite" t="Include">
