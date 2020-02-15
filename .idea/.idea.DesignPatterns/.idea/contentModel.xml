@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Administrator\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Administrator\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DesignPatterns.25995715.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Administrator\Documents\GitHub\DesignPatterns" t="IncludeFlat">
+    <e p="C:\Users\Steve\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Steve\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DesignPatterns.95248887.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Steve\Documents\GitHub\DesignPatterns2.0" t="IncludeFlat">
       <e p="DesignPatterns" t="IncludeRecursive">
         <e p="_AbstractFactory" t="Include">
           <e p="AfricaFactory.cs" t="Include" />
@@ -65,8 +65,14 @@
           <e p="TestFactory.cs" t="Include" />
         </e>
         <e p="_Flyweight" t="Include">
-          <e p="TeaShopExample" t="Include">
-            <e p="MainApp.cs" t="Include" />
+          <e p="Flyweight01_CarFactory" t="Include">
+            <e p="Car.cs" t="Include" />
+            <e p="Flyweight.cs" t="Include" />
+            <e p="FlyweightFactory.cs" t="Include" />
+            <e p="Program.cs" t="Include" />
+          </e>
+          <e p="Flyweight02_TeaShop" t="Include">
+            <e p="Program.cs" t="Include" />
             <e p="TeaMaker.cs" t="Include" />
             <e p="TeaShop.cs" t="Include" />
           </e>

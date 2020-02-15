@@ -1,6 +1,8 @@
                             .NET DESIGN PATTERNS
 						   ----------------------
 						   www.dofactory.com/net/design-patterns
+						   https://github.com/anupavanm/csharp-design-patterns-for-humans#creational-design-patterns
+						   https://github.com/RefactoringGuru/design-patterns-csharp/blob/master/Flyweight.Conceptual/Program.cs
 						   
 Creational Patterns:
 

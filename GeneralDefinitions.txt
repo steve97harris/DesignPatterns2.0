@@ -30,3 +30,7 @@ Use in a class declaration to indicate that a class is intended only to be a bas
 struct - A structure that mainly holds small data values.
 E.g: constructors, constants, fields, methods, properties, indexers, operators, events and nested types.
 
+readonly - Defines a read only field in our application.
+
+Dictionary<TKey, TValue> - Links a particular key with a value.
+

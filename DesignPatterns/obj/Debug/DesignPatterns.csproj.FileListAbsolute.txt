@@ -4,3 +4,9 @@ C:\Users\Administrator\Documents\GitHub\DesignPatterns\DesignPatterns\bin\Debug\
 C:\Users\Administrator\Documents\GitHub\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
 C:\Users\Administrator\Documents\GitHub\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
 C:\Users\Administrator\Documents\GitHub\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Users\Steve\Documents\GitHub\DesignPatterns2.0\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Users\Steve\Documents\GitHub\DesignPatterns2.0\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\Steve\Documents\GitHub\DesignPatterns2.0\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\Steve\Documents\GitHub\DesignPatterns2.0\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\Steve\Documents\GitHub\DesignPatterns2.0\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\Steve\Documents\GitHub\DesignPatterns2.0\DesignPatterns\obj\Debug\DesignPatterns.pdb
