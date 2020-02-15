@@ -83,6 +83,9 @@
               <e p="Logger.cs" t="Include" />
               <e p="TestLogger.cs" t="Include" />
             </e>
+            <e p="President" t="Include">
+              <e p="President.cs" t="Include" />
+            </e>
           </e>
         </e>
         <e p="02_Structural" t="Include">
@@ -92,6 +95,12 @@
               <e p="ChemicalDatabankMain.cs" t="Include" />
               <e p="Compound.cs" t="Include" />
               <e p="RichCompound.cs" t="Include" />
+            </e>
+            <e p="Lions" t="Include">
+              <e p="Hunter.cs" t="Include" />
+              <e p="ILion.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="WildDog.cs" t="Include" />
             </e>
           </e>
           <e p="02_Bridge" t="Include">

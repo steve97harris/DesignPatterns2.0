@@ -87,10 +87,15 @@
     <Compile Include="01_Creational\05_Prototype\Sheep\Sheep.cs" />
     <Compile Include="01_Creational\06_Singletons\ErrorLogger\Logger.cs" />
     <Compile Include="01_Creational\06_Singletons\ErrorLogger\TestLogger.cs" />
+    <Compile Include="01_Creational\06_Singletons\President\President.cs" />
     <Compile Include="02_Structural\01_Adapter\ChemicalDataBankAdapter\ChemicalDataBank.cs" />
     <Compile Include="02_Structural\01_Adapter\ChemicalDataBankAdapter\ChemicalDatabankMain.cs" />
     <Compile Include="02_Structural\01_Adapter\ChemicalDataBankAdapter\Compound.cs" />
     <Compile Include="02_Structural\01_Adapter\ChemicalDataBankAdapter\RichCompound.cs" />
+    <Compile Include="02_Structural\01_Adapter\Lions\Hunter.cs" />
+    <Compile Include="02_Structural\01_Adapter\Lions\ILion.cs" />
+    <Compile Include="02_Structural\01_Adapter\Lions\Program.cs" />
+    <Compile Include="02_Structural\01_Adapter\Lions\WildDog.cs" />
     <Compile Include="02_Structural\02_Bridge\CustomerBridge\Customers.cs" />
     <Compile Include="02_Structural\02_Bridge\CustomerBridge\CustomersBase.cs" />
     <Compile Include="02_Structural\02_Bridge\CustomerBridge\CustomersData.cs" />

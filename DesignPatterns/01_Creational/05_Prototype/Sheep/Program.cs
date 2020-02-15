@@ -4,7 +4,7 @@ namespace DesignPatterns._01_Creational._05_Prototype.Sheep
 {
     public class Program
     {
-        public static void Main()
+        public static void MainOLD()
         {
             var original = new Sheep("Jolly", "Mountain Sheep");
             Console.WriteLine(original.Name);
