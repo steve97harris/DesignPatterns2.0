@@ -5,95 +5,137 @@
     <e p="C:\Users\Steve\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DesignPatterns.95248887.00" t="ExcludeRecursive" />
     <e p="C:\Users\Steve\Documents\GitHub\DesignPatterns2.0" t="IncludeFlat">
       <e p="DesignPatterns" t="IncludeRecursive">
-        <e p="_AbstractFactory" t="Include">
-          <e p="AfricaFactory.cs" t="Include" />
-          <e p="AnimalFactory.cs" t="Include" />
-          <e p="AnimalWorld.cs" t="Include" />
-          <e p="ContinentFactory.cs" t="Include" />
-          <e p="OtherFactory.cs" t="Include" />
-          <e p="USAFactory.cs" t="Include" />
-        </e>
-        <e p="_Adapter" t="Include">
-          <e p="ChemicalDataBank.cs" t="Include" />
-          <e p="ChemicalDatabankMain.cs" t="Include" />
-          <e p="Compound.cs" t="Include" />
-          <e p="RichCompound.cs" t="Include" />
-        </e>
-        <e p="_BasicConcepts" t="Include">
-          <e p="A.cs" t="Include" />
-          <e p="Employee.cs" t="Include" />
-          <e p="IEmail.cs" t="Include" />
-        </e>
-        <e p="_Bridge" t="Include">
-          <e p="Customers.cs" t="Include" />
-          <e p="CustomersBase.cs" t="Include" />
-          <e p="CustomersData.cs" t="Include" />
-          <e p="DataObject.cs" t="Include" />
-          <e p="MainApp.cs" t="Include" />
-        </e>
-        <e p="_ColourPrototype" t="Include">
-          <e p="Colour.cs" t="Include" />
-          <e p="ColourManager.cs" t="Include" />
-          <e p="MainApp.cs" t="Include" />
-        </e>
-        <e p="_Composite" t="Include">
-          <e p="CompositeElement.cs" t="Include" />
-          <e p="DrawingElement.cs" t="Include" />
-          <e p="MainApp.cs" t="Include" />
-          <e p="PrimitiveElement.cs" t="Include" />
-        </e>
-        <e p="_Decorator" t="Include">
-          <e p="Book.cs" t="Include" />
-          <e p="Borrowable.cs" t="Include" />
-          <e p="Decorator.cs" t="Include" />
-          <e p="LibraryItem.cs" t="Include" />
-          <e p="MainApp.cs" t="Include" />
-          <e p="Video.cs" t="Include" />
-        </e>
-        <e p="_Facade" t="Include">
-          <e p="Customer.cs" t="Include" />
-          <e p="MainApp.cs" t="Include" />
-          <e p="Mortgage.cs" t="Include" />
-          <e p="Subsystems.cs" t="Include" />
-        </e>
-        <e p="_Factory" t="Include">
-          <e p="Add.cs" t="Include" />
-          <e p="CalculateFactory.cs" t="Include" />
-          <e p="Divide.cs" t="Include" />
-          <e p="ICalculate.cs" t="Include" />
-          <e p="Subtract.cs" t="Include" />
-          <e p="TestFactory.cs" t="Include" />
-        </e>
-        <e p="_Flyweight" t="Include">
-          <e p="Flyweight01_CarFactory" t="Include">
-            <e p="Car.cs" t="Include" />
-            <e p="Flyweight.cs" t="Include" />
-            <e p="FlyweightFactory.cs" t="Include" />
-            <e p="Program.cs" t="Include" />
+        <e p="01_Creational" t="Include">
+          <e p="00_BasicConcepts" t="Include">
+            <e p="A.cs" t="Include" />
+            <e p="Employee.cs" t="Include" />
+            <e p="IEmail.cs" t="Include" />
           </e>
-          <e p="Flyweight02_TeaShop" t="Include">
-            <e p="Program.cs" t="Include" />
-            <e p="TeaMaker.cs" t="Include" />
-            <e p="TeaShop.cs" t="Include" />
+          <e p="01_SimpleFactory" t="Include">
+            <e p="DoorFactory" t="Include">
+              <e p="DoorFactory.cs" t="Include" />
+              <e p="GlassDoor.cs" t="Include" />
+              <e p="IDoor.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="WoodenDoor.cs" t="Include" />
+            </e>
+          </e>
+          <e p="02_Factory" t="Include">
+            <e p="MathFactory" t="Include">
+              <e p="Add.cs" t="Include" />
+              <e p="CalculateFactory.cs" t="Include" />
+              <e p="Divide.cs" t="Include" />
+              <e p="ICalculate.cs" t="Include" />
+              <e p="Subtract.cs" t="Include" />
+              <e p="TestFactory.cs" t="Include" />
+            </e>
+          </e>
+          <e p="03_AbstractFactory" t="Include">
+            <e p="AnimalFactory" t="Include">
+              <e p="AfricaFactory.cs" t="Include" />
+              <e p="AnimalFactory.cs" t="Include" />
+              <e p="AnimalWorld.cs" t="Include" />
+              <e p="ContinentFactory.cs" t="Include" />
+              <e p="OtherFactory.cs" t="Include" />
+              <e p="USAFactory.cs" t="Include" />
+            </e>
+          </e>
+          <e p="04_Builder" t="Include">
+            <e p="VehicleBuilder" t="Include">
+              <e p="CarBuilder.cs" t="Include" />
+              <e p="MainApp.cs" t="Include" />
+              <e p="MotorCycleBuilder.cs" t="Include" />
+              <e p="ScooterBuilder.cs" t="Include" />
+              <e p="TruckBuilder.cs" t="Include" />
+              <e p="VehicleBuilder.cs" t="Include" />
+            </e>
+          </e>
+          <e p="05_Prototype" t="Include">
+            <e p="ColourPrototype" t="Include">
+              <e p="Colour.cs" t="Include" />
+              <e p="ColourManager.cs" t="Include" />
+              <e p="MainApp.cs" t="Include" />
+            </e>
+          </e>
+          <e p="06_Singletons" t="Include">
+            <e p="ErrorLogger" t="Include">
+              <e p="Logger.cs" t="Include" />
+              <e p="TestLogger.cs" t="Include" />
+            </e>
           </e>
         </e>
-        <e p="_Singletons" t="Include">
-          <e p="Logger.cs" t="Include" />
-          <e p="TestLogger.cs" t="Include" />
+        <e p="02_Structural" t="Include">
+          <e p="01_Adapter" t="Include">
+            <e p="ChemicalDataBankAdapter" t="Include">
+              <e p="ChemicalDataBank.cs" t="Include" />
+              <e p="ChemicalDatabankMain.cs" t="Include" />
+              <e p="Compound.cs" t="Include" />
+              <e p="RichCompound.cs" t="Include" />
+            </e>
+          </e>
+          <e p="02_Bridge" t="Include">
+            <e p="CustomerBridge" t="Include">
+              <e p="Customers.cs" t="Include" />
+              <e p="CustomersBase.cs" t="Include" />
+              <e p="CustomersData.cs" t="Include" />
+              <e p="DataObject.cs" t="Include" />
+              <e p="MainApp.cs" t="Include" />
+            </e>
+          </e>
+          <e p="03_Composite" t="Include">
+            <e p="ShapeDrawerComposite" t="Include">
+              <e p="CompositeElement.cs" t="Include" />
+              <e p="DrawingElement.cs" t="Include" />
+              <e p="MainApp.cs" t="Include" />
+              <e p="PrimitiveElement.cs" t="Include" />
+            </e>
+          </e>
+          <e p="04_Decorator" t="Include">
+            <e p="LibraryDecorator" t="Include">
+              <e p="Book.cs" t="Include" />
+              <e p="Borrowable.cs" t="Include" />
+              <e p="Decorator.cs" t="Include" />
+              <e p="LibraryItem.cs" t="Include" />
+              <e p="MainApp.cs" t="Include" />
+              <e p="Video.cs" t="Include" />
+            </e>
+          </e>
+          <e p="05_Facade" t="Include">
+            <e p="CustomerFacade" t="Include">
+              <e p="Customer.cs" t="Include" />
+              <e p="MainApp.cs" t="Include" />
+              <e p="Mortgage.cs" t="Include" />
+              <e p="Subsystems.cs" t="Include" />
+            </e>
+          </e>
+          <e p="06_Flyweight" t="Include">
+            <e p="CarFactory" t="Include">
+              <e p="Car.cs" t="Include" />
+              <e p="Flyweight.cs" t="Include" />
+              <e p="FlyweightFactory.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+            </e>
+            <e p="TeaShop" t="Include">
+              <e p="Program.cs" t="Include" />
+              <e p="TeaMaker.cs" t="Include" />
+              <e p="TeaShop.cs" t="Include" />
+            </e>
+          </e>
+          <e p="07_Proxy" t="Include">
+            <e p="Door" t="Include">
+              <e p="IDoor.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="SecuredDoor.cs" t="Include" />
+            </e>
+          </e>
         </e>
-        <e p="_TemplateMethod" t="Include">
-          <e p="DataProcessor.cs" t="Include" />
-          <e p="ExcelFile.cs" t="Include" />
-          <e p="TestTemplateMethod.cs" t="Include" />
-          <e p="TextFile.cs" t="Include" />
-        </e>
-        <e p="_VehicleBuilder" t="Include">
-          <e p="CarBuilder.cs" t="Include" />
-          <e p="MainApp.cs" t="Include" />
-          <e p="MotorCycleBuilder.cs" t="Include" />
-          <e p="ScooterBuilder.cs" t="Include" />
-          <e p="TruckBuilder.cs" t="Include" />
-          <e p="VehicleBuilder.cs" t="Include" />
+        <e p="03_Behavioral" t="Include">
+          <e p="10_TemplateMethod" t="Include">
+            <e p="DataProcessor.cs" t="Include" />
+            <e p="ExcelFile.cs" t="Include" />
+            <e p="TestTemplateMethod.cs" t="Include" />
+            <e p="TextFile.cs" t="Include" />
+          </e>
         </e>
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />

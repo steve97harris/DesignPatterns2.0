@@ -1,8 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Text;
+using DesignPatterns._basicconcepts;
 
-namespace DesignPatterns._basicconcepts
+namespace DesignPatterns._01_Creational._00_BasicConcepts
 {
     class Staff
     {
