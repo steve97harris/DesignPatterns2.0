@@ -118,6 +118,11 @@
             </e>
           </e>
           <e p="03_Composite" t="Include">
+            <e p="Employee" t="Include">
+              <e p="IEmployee.cs" t="Include" />
+              <e p="Organisation.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+            </e>
             <e p="ShapeDrawerComposite" t="Include">
               <e p="CompositeElement.cs" t="Include" />
               <e p="DrawingElement.cs" t="Include" />

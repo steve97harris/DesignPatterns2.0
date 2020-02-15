@@ -1,10 +1,26 @@
 				C# General Definitions
 				--------------
 
-class - A user defined blueprint where objects are created. A function that combines fields and methods into a single unit. 
-(A member function which defines actions).
+Type	Keywords
+Modifier Keywords	abstract, async, const, event, extern, new, override, partial, readonly, sealed, static, unsafe, virtual, volatile
+Access Modifier Keywords	public, private, protected, internal
+Statement Keywords	if, else, switch, case, do, for, foreach, in, while, break, continue, default, goto, return, yield, throw, try, catch, finally, checked, unchecked, fixed, lock
+Method Parameter Keyword	params, ref, out
+Access Keywords	base, this
+Namespace Keywords	using, . operator, :: operator, extern alias
+Literal Keywords	null, false, true, value, void
+Operator Keywords	as, await, is, new, sizeof, typeof, stackalloc, checked, unchecked
+Contextual Keywords	add, var, dynamic, global, set, value
+Type Keywords	bool, byte, char, class, decimal, double, enum, float, int, long, sbyte, short, string, struct, uint, ulong, ushort
+Query Keywords	from, where, select, group, into, orderby, join, let, in, on, equals, by, ascending, descending
 
-constuctor - A method of the class which gets invoked whenever an instance of the class is created. 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Type Keywords:
+
+class - A user defined blueprint where objects are created. A function that combines methods, fields, properties and events into a single unit. 
+
+struct - A structure that encapsulates small data values and groups of related variables.
+E.g: constructors, constants, fields, methods, properties, indexers, operators, events and nested types.
 
 ------------------------------------------
 Access Modifier's:
@@ -17,20 +33,26 @@ private - Restricts other parts of the program from accessing the type and it's 
 internal - Allows other program code in the same assembly to access the type or it's members. 
 
 protected - Allows codes in the same class or a class that derives from that class to access the type or it's members.  
+
 ------------------------------------------
+Modifier's:
 
 override - Used to replace a virtual and abstract members that is defined in a base class with the definition of that member in the derived class. 
-
-interface - Similar to a class but purely represents a contract between an object and it's user.
 
 abstract - Indicates that the thing being modified has a missing or incomplete implementation. 
 Use in a class declaration to indicate that a class is intended only to be a base class of other classes, not instantiated on it's own. 
 (Implementation isn't needed).
 
-struct - A structure that mainly holds small data values.
-E.g: constructors, constants, fields, methods, properties, indexers, operators, events and nested types.
-
 readonly - Defines a read only field in our application.
 
+----------------------------------------------------------------------------------------------------------------------------
+General Definition's:
+
+interface - Similar to a class but purely represents a contract between an object and it's user.
+
 Dictionary<TKey, TValue> - Links a particular key with a value.
+
+Fields - A variable of any type that is declared directly in a class or struct. Fields are members of their containing type.
+
+Constuctor - A method of the class which gets invoked whenever an instance of the class is created. 
 

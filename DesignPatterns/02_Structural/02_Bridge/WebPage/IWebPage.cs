@@ -16,7 +16,7 @@
 
         public string GetContent()
         {
-            return $"About page in {theme.GetColour()}";
+            return $"About section in {theme.GetColour()}";
         }
     }
 

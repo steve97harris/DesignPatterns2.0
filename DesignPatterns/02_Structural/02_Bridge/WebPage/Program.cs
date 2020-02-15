@@ -4,7 +4,7 @@ namespace DesignPatterns._02_Structural._02_Bridge.WebPage
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             var redTheme = new Red();
             var blueTheme = new Blue();
