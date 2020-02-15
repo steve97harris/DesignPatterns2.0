@@ -5,7 +5,7 @@ namespace DesignPatterns._01_Creational._01_SimpleFactory.DoorFactory
 {
     public class Program
     {
-        public static void Main()
+        public static void MainOLD()
         {
             var woodDoor = DoorFactory.MakeWoodDoor(80, 30);
             var glassDoor = DoorFactory.MakeGlassDoor(72, 24);

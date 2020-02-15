@@ -21,6 +21,12 @@
             </e>
           </e>
           <e p="02_Factory" t="Include">
+            <e p="Interviewer" t="Include">
+              <e p="HiringManager.cs" t="Include" />
+              <e p="IInterviewer.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="SubManagers.cs" t="Include" />
+            </e>
             <e p="MathFactory" t="Include">
               <e p="Add.cs" t="Include" />
               <e p="CalculateFactory.cs" t="Include" />
@@ -31,6 +37,12 @@
             </e>
           </e>
           <e p="03_AbstractFactory" t="Include">
+            <e p="AbstractDoorFactory" t="Include">
+              <e p="IDoor.cs" t="Include" />
+              <e p="IDoorFactory.cs" t="Include" />
+              <e p="IDoorFittingExpert.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+            </e>
             <e p="AnimalFactory" t="Include">
               <e p="AfricaFactory.cs" t="Include" />
               <e p="AnimalFactory.cs" t="Include" />
