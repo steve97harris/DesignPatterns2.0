@@ -111,6 +111,9 @@
     <Compile Include="02_Structural\03_Composite\ShapeDrawerComposite\DrawingElement.cs" />
     <Compile Include="02_Structural\03_Composite\ShapeDrawerComposite\MainApp.cs" />
     <Compile Include="02_Structural\03_Composite\ShapeDrawerComposite\PrimitiveElement.cs" />
+    <Compile Include="02_Structural\04_Decorator\CoffeeShop\ICoffee.cs" />
+    <Compile Include="02_Structural\04_Decorator\CoffeeShop\MilkCoffee.cs" />
+    <Compile Include="02_Structural\04_Decorator\CoffeeShop\Program.cs" />
     <Compile Include="02_Structural\04_Decorator\LibraryDecorator\Book.cs" />
     <Compile Include="02_Structural\04_Decorator\LibraryDecorator\Borrowable.cs" />
     <Compile Include="02_Structural\04_Decorator\LibraryDecorator\Decorator.cs" />

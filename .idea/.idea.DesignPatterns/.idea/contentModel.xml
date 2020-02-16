@@ -131,6 +131,11 @@
             </e>
           </e>
           <e p="04_Decorator" t="Include">
+            <e p="CoffeeShop" t="Include">
+              <e p="ICoffee.cs" t="Include" />
+              <e p="MilkCoffee.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+            </e>
             <e p="LibraryDecorator" t="Include">
               <e p="Book.cs" t="Include" />
               <e p="Borrowable.cs" t="Include" />
