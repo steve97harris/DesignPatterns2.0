@@ -4,7 +4,7 @@ namespace DesignPatterns._02_Structural._05_Facade.Computer
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             var computer = new ComputerFacade(new Computer());
             computer.TurnOn();

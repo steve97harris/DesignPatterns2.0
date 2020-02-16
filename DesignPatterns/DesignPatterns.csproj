@@ -137,6 +137,10 @@
     <Compile Include="02_Structural\07_Proxy\Door\IDoor.cs" />
     <Compile Include="02_Structural\07_Proxy\Door\Program.cs" />
     <Compile Include="02_Structural\07_Proxy\Door\SecuredDoor.cs" />
+    <Compile Include="02_Structural\07_Proxy\MathProxy\IMath.cs" />
+    <Compile Include="02_Structural\07_Proxy\MathProxy\MathProxy.cs" />
+    <Compile Include="02_Structural\07_Proxy\MathProxy\Maths.cs" />
+    <Compile Include="02_Structural\07_Proxy\MathProxy\Program.cs" />
     <Compile Include="03_Behavioral\10_TemplateMethod\DataProcessor.cs" />
     <Compile Include="03_Behavioral\10_TemplateMethod\ExcelFile.cs" />
     <Compile Include="03_Behavioral\10_TemplateMethod\TestTemplateMethod.cs" />

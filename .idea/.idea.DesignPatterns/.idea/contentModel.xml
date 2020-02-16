@@ -177,6 +177,12 @@
               <e p="Program.cs" t="Include" />
               <e p="SecuredDoor.cs" t="Include" />
             </e>
+            <e p="MathProxy" t="Include">
+              <e p="IMath.cs" t="Include" />
+              <e p="MathProxy.cs" t="Include" />
+              <e p="Maths.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+            </e>
           </e>
         </e>
         <e p="03_Behavioral" t="Include">
