@@ -120,6 +120,9 @@
     <Compile Include="02_Structural\04_Decorator\LibraryDecorator\LibraryItem.cs" />
     <Compile Include="02_Structural\04_Decorator\LibraryDecorator\MainApp.cs" />
     <Compile Include="02_Structural\04_Decorator\LibraryDecorator\Video.cs" />
+    <Compile Include="02_Structural\05_Facade\Computer\Computer.cs" />
+    <Compile Include="02_Structural\05_Facade\Computer\ComputerFacade.cs" />
+    <Compile Include="02_Structural\05_Facade\Computer\Program.cs" />
     <Compile Include="02_Structural\05_Facade\CustomerFacade\Customer.cs" />
     <Compile Include="02_Structural\05_Facade\CustomerFacade\MainApp.cs" />
     <Compile Include="02_Structural\05_Facade\CustomerFacade\Mortgage.cs" />

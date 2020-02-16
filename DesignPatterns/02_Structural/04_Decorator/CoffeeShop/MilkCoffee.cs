@@ -2,6 +2,7 @@
 
 namespace DesignPatterns._02_Structural._04_Decorator.CoffeeShop
 {
+    // Decorator
     public class MilkCoffee : ICoffee
     {
         private ICoffee mCoffee;

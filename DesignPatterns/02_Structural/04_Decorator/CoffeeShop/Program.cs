@@ -4,7 +4,7 @@ namespace DesignPatterns._02_Structural._04_Decorator.CoffeeShop
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             var myCoffee = new SimpleCoffee();
             Console.WriteLine($"{myCoffee.GetCost():c}");

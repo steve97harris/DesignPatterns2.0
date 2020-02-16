@@ -146,6 +146,11 @@
             </e>
           </e>
           <e p="05_Facade" t="Include">
+            <e p="Computer" t="Include">
+              <e p="Computer.cs" t="Include" />
+              <e p="ComputerFacade.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+            </e>
             <e p="CustomerFacade" t="Include">
               <e p="Customer.cs" t="Include" />
               <e p="MainApp.cs" t="Include" />
