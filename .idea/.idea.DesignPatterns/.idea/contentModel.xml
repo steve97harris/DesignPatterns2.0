@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Steve\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Steve\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DesignPatterns.95248887.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Steve\Documents\GitHub\DesignPatterns2.0" t="IncludeFlat">
+    <e p="C:\Users\Administrator\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DesignPatterns.25995715.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Administrator\Documents\GitHub\DesignPatterns" t="IncludeFlat">
       <e p="DesignPatterns" t="IncludeRecursive">
         <e p="01_Creational" t="Include">
           <e p="00_BasicConcepts" t="Include">
@@ -186,6 +186,12 @@
           </e>
         </e>
         <e p="03_Behavioral" t="Include">
+          <e p="01_ChainOfResponsibility" t="Include">
+            <e p="Accounts" t="Include">
+              <e p="Account.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+            </e>
+          </e>
           <e p="10_TemplateMethod" t="Include">
             <e p="DataProcessor.cs" t="Include" />
             <e p="ExcelFile.cs" t="Include" />

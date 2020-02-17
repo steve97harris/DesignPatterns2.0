@@ -31,7 +31,7 @@ Facade - A single class that represents an entire subsystem.
 
 Flyweight - A fine-grained instance used for efficient sharing.
 
-Proxy - 
+Proxy - An object representing another object.
 
 
 Behavioral: 
