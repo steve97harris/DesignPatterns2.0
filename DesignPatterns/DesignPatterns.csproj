@@ -144,6 +144,10 @@
     <Compile Include="03_Behavioral\01_ChainOfResponsibility\Accounts\Account.cs" />
     <Compile Include="03_Behavioral\01_ChainOfResponsibility\Accounts\Bank.cs" />
     <Compile Include="03_Behavioral\01_ChainOfResponsibility\Accounts\Program.cs" />
+    <Compile Include="03_Behavioral\02_Command\LightBulb\Bulb.cs" />
+    <Compile Include="03_Behavioral\02_Command\LightBulb\ICommand.cs" />
+    <Compile Include="03_Behavioral\02_Command\LightBulb\Program.cs" />
+    <Compile Include="03_Behavioral\02_Command\LightBulb\RemoteControl.cs" />
     <Compile Include="03_Behavioral\10_TemplateMethod\DataProcessor.cs" />
     <Compile Include="03_Behavioral\10_TemplateMethod\ExcelFile.cs" />
     <Compile Include="03_Behavioral\10_TemplateMethod\TestTemplateMethod.cs" />

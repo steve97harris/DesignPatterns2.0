@@ -193,6 +193,14 @@
               <e p="Program.cs" t="Include" />
             </e>
           </e>
+          <e p="02_Command" t="Include">
+            <e p="LightBulb" t="Include">
+              <e p="Bulb.cs" t="Include" />
+              <e p="ICommand.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="RemoteControl.cs" t="Include" />
+            </e>
+          </e>
           <e p="10_TemplateMethod" t="Include">
             <e p="DataProcessor.cs" t="Include" />
             <e p="ExcelFile.cs" t="Include" />

@@ -4,7 +4,7 @@ namespace DesignPatterns._03_Behavioral._01_ChainOfResponsibility.Accounts
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             var bank = new Bank(100);        // Bank with balance 100
             var paypal = new PayPal(200);        // PayPal balance 200
