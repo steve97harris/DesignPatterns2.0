@@ -142,6 +142,7 @@
     <Compile Include="02_Structural\07_Proxy\MathProxy\Maths.cs" />
     <Compile Include="02_Structural\07_Proxy\MathProxy\Program.cs" />
     <Compile Include="03_Behavioral\01_ChainOfResponsibility\Accounts\Account.cs" />
+    <Compile Include="03_Behavioral\01_ChainOfResponsibility\Accounts\Bank.cs" />
     <Compile Include="03_Behavioral\01_ChainOfResponsibility\Accounts\Program.cs" />
     <Compile Include="03_Behavioral\10_TemplateMethod\DataProcessor.cs" />
     <Compile Include="03_Behavioral\10_TemplateMethod\ExcelFile.cs" />
