@@ -5,7 +5,7 @@ namespace DesignPatterns._03_Behavioral._04_Iterator.RadioStation
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             var stations = new StationList();
             var station1 = new RadioStation(95.3f);

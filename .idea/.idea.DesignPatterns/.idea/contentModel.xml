@@ -216,7 +216,13 @@
               <e p="StationList.cs" t="Include" />
             </e>
           </e>
-          <e p="05_Mediator" t="Include" />
+          <e p="05_Mediator" t="Include">
+            <e p="Chatroom" t="Include">
+              <e p="IChatRoomMediator.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="User.cs" t="Include" />
+            </e>
+          </e>
           <e p="06_Memento" t="Include" />
           <e p="07_Observer" t="Include" />
           <e p="08_Visitor" t="Include" />
