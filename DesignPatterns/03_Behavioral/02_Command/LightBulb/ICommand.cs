@@ -10,15 +10,15 @@ namespace DesignPatterns._03_Behavioral._02_Command.LightBulb
         void Redo();
     }
 
-    public class TurnOn : ICommand
+    public class TurnOn : ICommand        // Creating class TurnOn belonging to ICommand
     {
-        private Bulb mBulb;
+        private Bulb mBulb;        
 
-        public TurnOn(Bulb bulb)
+        public TurnOn(Bulb bulb)        // Constructor
         {
             this.mBulb = bulb ?? throw new ArgumentNullException("bulb", "Bulb cannot be null");
         }
-        public void Execute()
+        public void Execute()        // Function to execute the command TurnOn() 
         {
             mBulb.TurnOn();
         }
