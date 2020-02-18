@@ -4,7 +4,7 @@ namespace DesignPatterns._03_Behavioral._02_Command.LightBulb
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             var bulb = new Bulb();
             

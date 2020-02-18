@@ -201,7 +201,28 @@
               <e p="RemoteControl.cs" t="Include" />
             </e>
           </e>
-          <e p="10_TemplateMethod" t="Include">
+          <e p="03_Interpreter" t="Include">
+            <e p="RomanNumerals" t="Include">
+              <e p="Context.cs" t="Include" />
+              <e p="Expression.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="SubExpressions.cs" t="Include" />
+            </e>
+          </e>
+          <e p="04_Iterator" t="Include">
+            <e p="RadioStation" t="Include">
+              <e p="Program.cs" t="Include" />
+              <e p="RadioStation.cs" t="Include" />
+              <e p="StationList.cs" t="Include" />
+            </e>
+          </e>
+          <e p="05_Mediator" t="Include" />
+          <e p="06_Memento" t="Include" />
+          <e p="07_Observer" t="Include" />
+          <e p="08_Visitor" t="Include" />
+          <e p="09_Strategy" t="Include" />
+          <e p="10_State" t="Include" />
+          <e p="11_TemplateMethod" t="Include">
             <e p="DataProcessor.cs" t="Include" />
             <e p="ExcelFile.cs" t="Include" />
             <e p="TestTemplateMethod.cs" t="Include" />
