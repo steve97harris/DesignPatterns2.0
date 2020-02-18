@@ -158,6 +158,14 @@
     <Compile Include="03_Behavioral\05_Mediator\Chatroom\IChatRoomMediator.cs" />
     <Compile Include="03_Behavioral\05_Mediator\Chatroom\Program.cs" />
     <Compile Include="03_Behavioral\05_Mediator\Chatroom\User.cs" />
+    <Compile Include="03_Behavioral\06_Memento\Editor\Editor.cs" />
+    <Compile Include="03_Behavioral\06_Memento\Editor\EditorMemento.cs" />
+    <Compile Include="03_Behavioral\06_Memento\Editor\Program.cs" />
+    <Compile Include="03_Behavioral\07_Observer\JobPost\JobPost.cs" />
+    <Compile Include="03_Behavioral\07_Observer\JobPost\JobPostings.cs" />
+    <Compile Include="03_Behavioral\07_Observer\JobPost\JobSeeker.cs" />
+    <Compile Include="03_Behavioral\07_Observer\JobPost\Program.cs" />
+    <Compile Include="03_Behavioral\07_Observer\JobPost\Unsubscriber.cs" />
     <Compile Include="03_Behavioral\11_TemplateMethod\DataProcessor.cs" />
     <Compile Include="03_Behavioral\11_TemplateMethod\ExcelFile.cs" />
     <Compile Include="03_Behavioral\11_TemplateMethod\TestTemplateMethod.cs" />
@@ -168,8 +176,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="03_Behavioral\06_Memento" />
-    <Folder Include="03_Behavioral\07_Observer" />
     <Folder Include="03_Behavioral\08_Visitor" />
     <Folder Include="03_Behavioral\09_Strategy" />
     <Folder Include="03_Behavioral\10_State" />

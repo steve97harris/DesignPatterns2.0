@@ -36,15 +36,15 @@ Proxy - An object representing another object.
 
 Behavioral: 
 
-Chain of Responsibility - 
+Chain of Responsibility - A way of passing a request between a chain of objects.
 
-Command - 
+Command - Encapsulate a cmmand request as an object.
 
-Iterator - 
+Iterator - A way to include language elements in a program.
 
-Mediator - 
+Mediator - Defines simplified communication between classes.
 
-Memento - 
+Memento - Capture and restore an object's internal state.
 
 Observer - 
 
