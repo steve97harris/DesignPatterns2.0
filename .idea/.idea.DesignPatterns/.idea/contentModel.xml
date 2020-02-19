@@ -239,7 +239,15 @@
               <e p="Unsubscriber.cs" t="Include" />
             </e>
           </e>
-          <e p="08_Visitor" t="Include" />
+          <e p="08_Visitor" t="Include">
+            <e p="Animals" t="Include">
+              <e p="Animals.cs" t="Include" />
+              <e p="IAnimal.cs" t="Include" />
+              <e p="Jump.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="Speak.cs" t="Include" />
+            </e>
+          </e>
           <e p="09_Strategy" t="Include" />
           <e p="10_State" t="Include" />
           <e p="11_TemplateMethod" t="Include">

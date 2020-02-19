@@ -46,7 +46,7 @@ Mediator - Defines simplified communication between classes.
 
 Memento - Capture and restore an object's internal state.
 
-Observer - 
+Observer - A way of notifying change to a number of classes.
 
 Visitor - 
 
