@@ -248,7 +248,13 @@
               <e p="Speak.cs" t="Include" />
             </e>
           </e>
-          <e p="09_Strategy" t="Include" />
+          <e p="09_Strategy" t="Include">
+            <e p="Sorter" t="Include">
+              <e p="ISortStrategy.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="Sorter.cs" t="Include" />
+            </e>
+          </e>
           <e p="10_State" t="Include" />
           <e p="11_TemplateMethod" t="Include">
             <e p="DataProcessor.cs" t="Include" />

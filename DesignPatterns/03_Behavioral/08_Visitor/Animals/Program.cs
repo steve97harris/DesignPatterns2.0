@@ -2,7 +2,7 @@
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             var monkey = new Monkey();
             var lion = new Lion();
