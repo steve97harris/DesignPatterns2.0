@@ -263,10 +263,17 @@
             </e>
           </e>
           <e p="11_TemplateMethod" t="Include">
-            <e p="DataProcessor.cs" t="Include" />
-            <e p="ExcelFile.cs" t="Include" />
-            <e p="TestTemplateMethod.cs" t="Include" />
-            <e p="TextFile.cs" t="Include" />
+            <e p="Builder" t="Include">
+              <e p="Builder.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="SubBuilders.cs" t="Include" />
+            </e>
+            <e p="DataProcessor" t="Include">
+              <e p="DataProcessor.cs" t="Include" />
+              <e p="ExcelFile.cs" t="Include" />
+              <e p="TestTemplateMethod.cs" t="Include" />
+              <e p="TextFile.cs" t="Include" />
+            </e>
           </e>
         </e>
         <e p="App.config" t="Include" />

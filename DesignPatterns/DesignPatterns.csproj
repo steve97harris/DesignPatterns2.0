@@ -177,10 +177,13 @@
     <Compile Include="03_Behavioral\10_State\TextEditor\IWritingState.cs" />
     <Compile Include="03_Behavioral\10_State\TextEditor\Program.cs" />
     <Compile Include="03_Behavioral\10_State\TextEditor\TextEditor.cs" />
-    <Compile Include="03_Behavioral\11_TemplateMethod\DataProcessor.cs" />
-    <Compile Include="03_Behavioral\11_TemplateMethod\ExcelFile.cs" />
-    <Compile Include="03_Behavioral\11_TemplateMethod\TestTemplateMethod.cs" />
-    <Compile Include="03_Behavioral\11_TemplateMethod\TextFile.cs" />
+    <Compile Include="03_Behavioral\11_TemplateMethod\Builder\Builder.cs" />
+    <Compile Include="03_Behavioral\11_TemplateMethod\Builder\Program.cs" />
+    <Compile Include="03_Behavioral\11_TemplateMethod\Builder\SubBuilders.cs" />
+    <Compile Include="03_Behavioral\11_TemplateMethod\DataProcessor\DataProcessor.cs" />
+    <Compile Include="03_Behavioral\11_TemplateMethod\DataProcessor\ExcelFile.cs" />
+    <Compile Include="03_Behavioral\11_TemplateMethod\DataProcessor\TestTemplateMethod.cs" />
+    <Compile Include="03_Behavioral\11_TemplateMethod\DataProcessor\TextFile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

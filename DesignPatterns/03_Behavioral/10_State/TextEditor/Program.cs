@@ -2,7 +2,7 @@
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             var editor = new TextEditor();
             
