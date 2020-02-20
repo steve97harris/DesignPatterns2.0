@@ -4,7 +4,7 @@ namespace DesignPatterns._03_Behavioral._09_Strategy.Sorter
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             var unSortedList = new List<int> {1, 10, 2, 16, 19};
             

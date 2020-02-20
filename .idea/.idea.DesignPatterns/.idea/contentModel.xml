@@ -255,7 +255,13 @@
               <e p="Sorter.cs" t="Include" />
             </e>
           </e>
-          <e p="10_State" t="Include" />
+          <e p="10_State" t="Include">
+            <e p="TextEditor" t="Include">
+              <e p="IWritingState.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="TextEditor.cs" t="Include" />
+            </e>
+          </e>
           <e p="11_TemplateMethod" t="Include">
             <e p="DataProcessor.cs" t="Include" />
             <e p="ExcelFile.cs" t="Include" />
