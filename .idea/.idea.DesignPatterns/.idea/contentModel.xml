@@ -192,6 +192,12 @@
               <e p="Bank.cs" t="Include" />
               <e p="Program.cs" t="Include" />
             </e>
+            <e p="CompanyPurchaseApprover" t="Include">
+              <e p="ApproverHandler.cs" t="Include" />
+              <e p="Approvers.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="Purchase.cs" t="Include" />
+            </e>
           </e>
           <e p="02_Command" t="Include">
             <e p="LightBulb" t="Include">

@@ -2,7 +2,7 @@
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             var androidBuilder = new AndroidBuilder();
             androidBuilder.Build();
