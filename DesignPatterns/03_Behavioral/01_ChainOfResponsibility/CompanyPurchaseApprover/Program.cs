@@ -4,7 +4,7 @@ namespace DesignPatterns._03_Behavioral._01_ChainOfResponsibility.CompanyPurchas
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             Approver larry = new Director();
             Approver david = new VicePresident();
