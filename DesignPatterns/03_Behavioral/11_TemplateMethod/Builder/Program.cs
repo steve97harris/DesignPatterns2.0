@@ -4,7 +4,11 @@
     {
         static void Main()
         {
+            var androidBuilder = new AndroidBuilder();
+            androidBuilder.Build();
             
+            var iosBuilder = new IOS();
+            iosBuilder.Build();
         }
     }
 }
