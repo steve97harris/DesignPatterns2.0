@@ -224,11 +224,9 @@
           </e>
           <e p="04_Iterator" t="Include">
             <e p="ItemCollector" t="Include">
-              <e p="Collection.cs" t="Include" />
               <e p="IAbstractCollection.cs" t="Include" />
               <e p="IAbstractIterator.cs" t="Include" />
               <e p="Item.cs" t="Include" />
-              <e p="Iterator.cs" t="Include" />
               <e p="Program.cs" t="Include" />
             </e>
             <e p="RadioStation" t="Include">
