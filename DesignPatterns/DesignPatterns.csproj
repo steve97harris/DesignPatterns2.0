@@ -161,6 +161,12 @@
     <Compile Include="03_Behavioral\03_Interpreter\RomanNumerals\Expression.cs" />
     <Compile Include="03_Behavioral\03_Interpreter\RomanNumerals\Program.cs" />
     <Compile Include="03_Behavioral\03_Interpreter\RomanNumerals\SubExpressions.cs" />
+    <Compile Include="03_Behavioral\04_Iterator\ItemCollector\Collection.cs" />
+    <Compile Include="03_Behavioral\04_Iterator\ItemCollector\IAbstractCollection.cs" />
+    <Compile Include="03_Behavioral\04_Iterator\ItemCollector\IAbstractIterator.cs" />
+    <Compile Include="03_Behavioral\04_Iterator\ItemCollector\Item.cs" />
+    <Compile Include="03_Behavioral\04_Iterator\ItemCollector\Iterator.cs" />
+    <Compile Include="03_Behavioral\04_Iterator\ItemCollector\Program.cs" />
     <Compile Include="03_Behavioral\04_Iterator\RadioStation\Program.cs" />
     <Compile Include="03_Behavioral\04_Iterator\RadioStation\RadioStation.cs" />
     <Compile Include="03_Behavioral\04_Iterator\RadioStation\StationList.cs" />
