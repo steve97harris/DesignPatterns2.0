@@ -178,6 +178,7 @@
     <Compile Include="03_Behavioral\06_Memento\SalesProspects\Program.cs" />
     <Compile Include="03_Behavioral\06_Memento\SalesProspects\ProspectMemory.cs" />
     <Compile Include="03_Behavioral\06_Memento\SalesProspects\SalesProspect.cs" />
+    <Compile Include="03_Behavioral\07_Observer\InvestorApp\IBM.cs" />
     <Compile Include="03_Behavioral\07_Observer\InvestorApp\IInvestor.cs" />
     <Compile Include="03_Behavioral\07_Observer\InvestorApp\Investor.cs" />
     <Compile Include="03_Behavioral\07_Observer\InvestorApp\Main.cs" />

@@ -257,6 +257,7 @@
           </e>
           <e p="07_Observer" t="Include">
             <e p="InvestorApp" t="Include">
+              <e p="IBM.cs" t="Include" />
               <e p="IInvestor.cs" t="Include" />
               <e p="Investor.cs" t="Include" />
               <e p="Main.cs" t="Include" />

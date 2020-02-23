@@ -4,7 +4,7 @@ namespace DesignPatterns._03_Behavioral._06_Memento.SalesProspects
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             SalesProspect salesProspect = new SalesProspect();
             salesProspect.Name = "Stevie Bergweign";
