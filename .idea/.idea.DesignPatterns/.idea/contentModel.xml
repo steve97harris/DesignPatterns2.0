@@ -248,8 +248,20 @@
               <e p="EditorMemento.cs" t="Include" />
               <e p="Program.cs" t="Include" />
             </e>
+            <e p="SalesProspects" t="Include">
+              <e p="Memento.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="ProspectMemory.cs" t="Include" />
+              <e p="SalesProspect.cs" t="Include" />
+            </e>
           </e>
           <e p="07_Observer" t="Include">
+            <e p="InvestorApp" t="Include">
+              <e p="IInvestor.cs" t="Include" />
+              <e p="Investor.cs" t="Include" />
+              <e p="Main.cs" t="Include" />
+              <e p="Stock.cs" t="Include" />
+            </e>
             <e p="JobPost" t="Include">
               <e p="JobPost.cs" t="Include" />
               <e p="JobPostings.cs" t="Include" />

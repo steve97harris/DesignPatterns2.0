@@ -4,7 +4,7 @@ namespace DesignPatterns._03_Behavioral._04_Iterator.ItemCollector
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             // Build a collection of items
             Collection collection = new Collection();
