@@ -295,6 +295,12 @@
               <e p="Program.cs" t="Include" />
               <e p="Sorter.cs" t="Include" />
             </e>
+            <e p="StudentSorter" t="Include">
+              <e p="ConcreteStrategies.cs" t="Include" />
+              <e p="Program.cs" t="Include" />
+              <e p="SortedList.cs" t="Include" />
+              <e p="SortStrategy.cs" t="Include" />
+            </e>
           </e>
           <e p="10_State" t="Include">
             <e p="TextEditor" t="Include">

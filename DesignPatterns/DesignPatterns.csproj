@@ -203,6 +203,10 @@
     <Compile Include="03_Behavioral\09_Strategy\Sorter\ISortStrategy.cs" />
     <Compile Include="03_Behavioral\09_Strategy\Sorter\Program.cs" />
     <Compile Include="03_Behavioral\09_Strategy\Sorter\Sorter.cs" />
+    <Compile Include="03_Behavioral\09_Strategy\StudentSorter\ConcreteStrategies.cs" />
+    <Compile Include="03_Behavioral\09_Strategy\StudentSorter\Program.cs" />
+    <Compile Include="03_Behavioral\09_Strategy\StudentSorter\SortedList.cs" />
+    <Compile Include="03_Behavioral\09_Strategy\StudentSorter\SortStrategy.cs" />
     <Compile Include="03_Behavioral\10_State\TextEditor\IWritingState.cs" />
     <Compile Include="03_Behavioral\10_State\TextEditor\Program.cs" />
     <Compile Include="03_Behavioral\10_State\TextEditor\TextEditor.cs" />

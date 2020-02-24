@@ -2,7 +2,7 @@
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             Employees employees = new Employees();
 
