@@ -193,6 +193,13 @@
     <Compile Include="03_Behavioral\08_Visitor\Animals\Jump.cs" />
     <Compile Include="03_Behavioral\08_Visitor\Animals\Program.cs" />
     <Compile Include="03_Behavioral\08_Visitor\Animals\Speak.cs" />
+    <Compile Include="03_Behavioral\08_Visitor\EmployeeInfoCentre\ConcreteElements.cs" />
+    <Compile Include="03_Behavioral\08_Visitor\EmployeeInfoCentre\ConcreteVisitors.cs" />
+    <Compile Include="03_Behavioral\08_Visitor\EmployeeInfoCentre\Element.cs" />
+    <Compile Include="03_Behavioral\08_Visitor\EmployeeInfoCentre\EmployeeJobs.cs" />
+    <Compile Include="03_Behavioral\08_Visitor\EmployeeInfoCentre\Employees.cs" />
+    <Compile Include="03_Behavioral\08_Visitor\EmployeeInfoCentre\IVisitor.cs" />
+    <Compile Include="03_Behavioral\08_Visitor\EmployeeInfoCentre\Program.cs" />
     <Compile Include="03_Behavioral\09_Strategy\Sorter\ISortStrategy.cs" />
     <Compile Include="03_Behavioral\09_Strategy\Sorter\Program.cs" />
     <Compile Include="03_Behavioral\09_Strategy\Sorter\Sorter.cs" />

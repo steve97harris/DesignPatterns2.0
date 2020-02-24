@@ -4,7 +4,7 @@ namespace DesignPatterns._03_Behavioral._07_Observer.InvestorApp
 {
     public class Program
     {
-        static void Main()
+        static void MainOLD()
         {
             // Create IBM stock and attach investors
             Stock ibm = new IBM("IBM", 120.00);
