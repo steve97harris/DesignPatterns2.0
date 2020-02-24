@@ -207,6 +207,12 @@
     <Compile Include="03_Behavioral\09_Strategy\StudentSorter\Program.cs" />
     <Compile Include="03_Behavioral\09_Strategy\StudentSorter\SortedList.cs" />
     <Compile Include="03_Behavioral\09_Strategy\StudentSorter\SortStrategy.cs" />
+    <Compile Include="03_Behavioral\10_State\BankAccount\Account.cs" />
+    <Compile Include="03_Behavioral\10_State\BankAccount\GoldState.cs" />
+    <Compile Include="03_Behavioral\10_State\BankAccount\Program.cs" />
+    <Compile Include="03_Behavioral\10_State\BankAccount\RedState.cs" />
+    <Compile Include="03_Behavioral\10_State\BankAccount\SilverState.cs" />
+    <Compile Include="03_Behavioral\10_State\BankAccount\State.cs" />
     <Compile Include="03_Behavioral\10_State\TextEditor\IWritingState.cs" />
     <Compile Include="03_Behavioral\10_State\TextEditor\Program.cs" />
     <Compile Include="03_Behavioral\10_State\TextEditor\TextEditor.cs" />
