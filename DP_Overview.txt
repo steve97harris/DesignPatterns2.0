@@ -48,10 +48,10 @@ Memento - Capture and restore an object's internal state.
 
 Observer - A way of notifying change to a number of classes.
 
-Visitor - 
+Visitor - Defines a new operation to a class without change.
 
-Strategy - 
+Strategy - Encapsulates an algorithm to a subclass.
 
-State - 
+State - Alter an object's behavior when its state changes.
 
-Template Method -
+Template Method - Defer the exact steps of an algorithm to a subclass.

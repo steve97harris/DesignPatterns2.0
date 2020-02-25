@@ -5,7 +5,7 @@
     public class GoldState : State
     {
         // Overloaded constructors
-        public GoldState(State state) : this(state.Account, state.Balance)        // Allows current state to change to Gold state
+        public GoldState(State state) : this(state.Account, state.Balance)        
         {
             
         }
